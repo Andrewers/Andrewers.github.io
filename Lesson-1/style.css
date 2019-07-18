@@ -15,7 +15,6 @@ body{
 	background: #f9f9f9;
 }
 main{
-    height: calc(100vh - 40px);
 	width: 70%;
 	margin: 20px auto;
 	background: #fff;
